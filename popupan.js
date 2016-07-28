@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://bit.ly/29R9meR';
+	var url_popup = 'http://xeotohcm.com.vn/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://xeotohcm.com.vn/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
